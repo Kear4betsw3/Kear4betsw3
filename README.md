@@ -36,9 +36,7 @@
 ---
 
 ### 📌 Projects  
-- **Mental Health Feedback App** *(Java, MongoDB, HTML/CSS)* – **🚧 In Progress**  
-  A responsive web app for collecting and managing mental health feedback.  
-  Currently under development with ongoing improvements to the UI, database handling, and features.
+-**🚧in progress** 
 
 
 ---

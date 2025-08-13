@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Dark Mode GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Kearabetswe Rabosiu</h1>

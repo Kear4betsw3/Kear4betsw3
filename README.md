@@ -36,14 +36,16 @@
 ---
 
 ### 📌 Projects  
-- **Mental Health Feedback App** – *Java, HTML/CSS*  
-  A responsive web app for collecting and managing mental health feedback securely.
+- **Mental Health Feedback App** *(Java, MongoDB, HTML/CSS)* – **🚧 In Progress**  
+  A responsive web app for collecting and managing mental health feedback.  
+  Currently under development with ongoing improvements to the UI, database handling, and features.
+
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KearabetsweRabosiu&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kear4betsw3&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 ---

@@ -25,6 +25,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)  
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)  
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)  
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **Databases:**    
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)  
